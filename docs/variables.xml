@@ -1,0 +1,9 @@
+<var>
+    <theme-name>Breadly</theme-name>
+    <theme-slug>breadly</theme-slug>
+    <wp-version>6.0</wp-version>
+    <php-version>7.4</php-version>
+    <minimum-image-size>750 x 500</minimum-image-size>
+    <recommended-image-size>1280 x 720</recommended-image-size>
+    <post-image-size>538 x 358</post-image-size>
+</var>
