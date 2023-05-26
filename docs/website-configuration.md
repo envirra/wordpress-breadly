@@ -31,13 +31,23 @@ To start making changes to the website, navigate to `Appearance > Editor`
 0. Click **Save**.
 0. Now all templates that use the **Site logo** block will be updated automatically except some templates that has own logo image block. You may check again in the template editor.
 
+## Editing colors
+
+1. Navigate to `Appearance > Editor` and click the **Styles** button at the top right of the screen.
+2. In the Styles panel, Click **Colors > Palette**. The theme's solid colors and gradient colors will be shown.
+3. To edit the color, Click the 3-dots button in the Theme section and choose **Edit colors** or **Edit gradients**.
+4. Now you can change any color. After finished, Click **Done**.
+5. Click **Save** to apply changes.
+
+![](website-configuration/edit-colors.png)
+
 ## Editing primary navigation
 
-0. Navigate to `Appearance > Editor > Template Parts` and choose **Navigation – Primary**.
-0. To add top-level menu item, Click on the **Mega menu** block and click the black **Plus** icon.
-0. To add sub-level menu item, Click on the top-level menu item and click the white **Plus** icon.
-0. You can add any block to decorate the sub-menu, such as text, image or grid.
-0. Click **Save**.
+1. Navigate to `Appearance > Editor > Template Parts` and choose **Navigation – Primary**.
+2. To add top-level menu item, Click on the **Mega menu** block and click the black **Plus** icon.
+3. To add sub-level menu item, Click on the top-level menu item and click the white **Plus** icon.
+4. You can add any block to decorate the sub-menu, such as text, image or grid.
+5. Click **Save**.
 
 ## Editing mobile navigation
 
